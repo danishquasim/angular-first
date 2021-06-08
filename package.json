@@ -1,0 +1,21 @@
+{
+  "name": "angular_first",
+  "version": "1.0.0",
+  "description": "MEAN STACK with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular"
+  ],
+  "author": "Danish Quasim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13"
+  }
+}
